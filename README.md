@@ -25,7 +25,7 @@ With City name
 With City ID
 `python howsky.py -i <city id>`
 
-With ip code
+With zip code
 `python howsky.py -c <zip code>`
 
 With lat and lon
