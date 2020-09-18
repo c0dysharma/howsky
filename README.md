@@ -22,7 +22,7 @@ Head over to [Openweathermap](https://home.openweathermap.org/users/sign_up) Sig
 `pip install requests`
 
 With City name
-`pthon howsky.py -c <city name>`
+`python howsky.py -c <city name>`
 
 With City ID
 `python howsky.py -i <city id>`
