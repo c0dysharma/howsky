@@ -1,5 +1,4 @@
 import requests
-import math
 import sys, argparse
 
 apiUrl = "http://api.openweathermap.org/data/2.5/weather"   #base url
