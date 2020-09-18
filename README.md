@@ -19,6 +19,8 @@ With you City Name, Zipcode, City ID or Latitude and Longitude
 ## Usage
 Head over to [Openweathermap](https://home.openweathermap.org/users/sign_up) Sign up and obtain the [API Key](https://home.openweathermap.org/api_keys) and replace in `apiKey` variable. Now you are Good to Go.
 
+`pip install requests`
+
 With City name
 `pthon howsky.py -c <city name>`
 
