@@ -8,11 +8,13 @@
 ## Introduction
 You can find following details of today. I use Openweathermap API for the info
 
--Temperature
+-Temperature(min, max, average)
 
 -Humidity
 
--Pressure ...and many more
+-Pressure
+
+-Latitude And Longitude
 
 With you City Name, Zipcode, City ID or Latitude and Longitude
 
